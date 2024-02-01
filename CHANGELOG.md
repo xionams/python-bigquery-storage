@@ -4,6 +4,15 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-storage/#history
 
+## [2.25.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.24.0...v2.25.0) (2024-02-01)
+
+
+### Features
+
+* Add ability to request compressed ReadRowsResponse rows ([#728](https://github.com/googleapis/python-bigquery-storage/issues/728)) ([fe09e3b](https://github.com/googleapis/python-bigquery-storage/commit/fe09e3b3940e0cba3de70906f49b19beaca16930))
+* Add support for proto3 optional tag ([#727](https://github.com/googleapis/python-bigquery-storage/issues/727)) ([3b9724a](https://github.com/googleapis/python-bigquery-storage/commit/3b9724a0ba7f45c9661831ecd4d9151ae23ce5d9))
+* Allow users to explicitly configure universe domain ([#737](https://github.com/googleapis/python-bigquery-storage/issues/737)) ([44feef7](https://github.com/googleapis/python-bigquery-storage/commit/44feef7429fe5ce70a0b346cf2120bfe994a1731))
+
 ## [2.24.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.23.0...v2.24.0) (2023-12-12)
 
 
